@@ -22,7 +22,7 @@ Specializing in building dynamic web applications with:
 - **Machine learning and Artificial Neural Networks**  
 - **DevOps CI/CD intergration with GitLab and Jenkins**  
 
-I prioritize clean, maintainable, and scalable code for every project I work on.  
+I prioritize clean, maintainable, and scalable code for every projects I work on.  
 
 ---
 
